@@ -1,5 +1,7 @@
 # Customer-Churn-Project
 
+Tools:- Python (Jupiter Notebook) and Artficial Intelligence (AI)
+
 Problem Statement:-
 You are the Data Scientist at a telecom company “Leo” whose customers are churning out to its competitors You have to analyse the data of your company and find insights and stop your customers from churning out to other telecom companies.
 
